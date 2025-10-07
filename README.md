@@ -1,4 +1,4 @@
-# 💻 Survey Form
+# Survey Form
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
@@ -15,21 +15,21 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-survey-form&left_text=repo%20views)
 
-## ℹ️ A Simple Social Media Usage Survey Form
+## A Simple Social Media Usage Survey Form
 
 ![Screenshot of the project](./screenshot.png)
 
-A semantic and accessible **HTML5-only survey form** designed to collect user data about social media usage in modern society. Created as part of the [freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/) HTML5 free course.
+A semantic and accessible **HTML5-only survey form** designed to collect user data about social media usage in modern society. Created as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** HTML5 free course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This survey form explores how people use social media, how long they spend on platforms daily, and their reasons for using it. It includes various input types such as text, number, email, select dropdowns, radio buttons, checkboxes, and a textarea.
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic HTML5 document structure using `<header>`, `<main>`, `<form>`, `<fieldset>`, and `<footer>`
 - Accessible form labels and ARIA-friendly markup
@@ -40,7 +40,7 @@ This survey form explores how people use social media, how long they spend on pl
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to create a structured HTML form using fieldsets and legends
 - Best practices for accessibility using `<label for="">` and form input relationships
@@ -49,7 +49,7 @@ This survey form explores how people use social media, how long they spend on pl
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - Git
@@ -58,23 +58,23 @@ This survey form explores how people use social media, how long they spend on pl
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://survey-form-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://survey-form-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
